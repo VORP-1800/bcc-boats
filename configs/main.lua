@@ -1,6 +1,6 @@
 Config = {}
 
-Config.defaultlang = 'en_lang'
+Config.defaultlang = 'es_lang'
 -----------------------------------------------------
 
 Config.devMode = false -- Default: false / DO NOT Enable on Live Server
